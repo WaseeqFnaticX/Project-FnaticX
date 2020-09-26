@@ -1,0 +1,8 @@
+echo "# Project-FnaticX" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/WaseeqFnaticX/Project-FnaticX.git
+git push -u origin master
+                
